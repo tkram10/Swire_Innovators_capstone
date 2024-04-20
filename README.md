@@ -93,7 +93,11 @@ This solution empowers Swire Coca-Cola to make informed and data-driven decision
 Dealing with large datasets was tough, especially since we hadn't done it before. We had to learn how to use platforms like Google Cloud and BigQuery to manage all that data. Forecasting methods like ARIMA, SARIMA, Prophet, and exponential smoothing were also tricky, and we made a lot of mistakes before we got them right. Thinking creatively was important too, especially when analyzing complex products. Each challenge taught us something valuable, like being adaptable and resilient when things get tough.
 
 
+### Website
 
+The analytical rigor was matched by technical prowess. we developed a website using Docker, Python, Flask, HTML, CSS, and JavaScript, which not only impressed the Swire team but also provided a platform for interactive data visualization and further analysis.
+
+[](https://swirewebsite-kxgpyieata-wm.a.run.app/)
 
 
 
