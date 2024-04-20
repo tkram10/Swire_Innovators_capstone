@@ -11,7 +11,7 @@ By accurately predicting demand for Swire Coca-Cola's innovative products, we en
 With increased customer satisfaction and loyalty, we can drive more sales, capture new market opportunities, and increase profitability. 
 Ultimately, by understanding and meeting consumer demands effectively, we enhance operational efficiency and strengthen our brand's reputation, driving sustainable growth in the competitive beverage industry.
 
-#### Analytical Approach.
+### Analytical Approach.
 This problem can be addressed in multiple approaches:
 
 Approach-1 :
@@ -39,8 +39,58 @@ COCOS and JOLLYS are the most prolific manufacturers, with unit sales as high as
 
 We can see only the SWIRE-CC sales over time, and SWIRE has sales peak in November and December every year due to Christmas and Thanksgiving; also, the sales increase in May and June every year. We mainly consider SWIRE-CC to be the manufacturer in our analysis, as SWIRE-CC is the only manufacturer in our modeling questions.
 
-#### Contribution to the project
+### Modelling
+
+#### Product:1
+
+Caloric Segment: Regular
+Market Category: SSD
+Manufacturer: Swire-CC
+Brand: Sparkling Jacceptabletlester
+Package Type: 11Small MLT
+Flavor: ‘Avocado’
+
+Swire plans to release this product 2 weeks prior to Easter and 2 weeks post Easter.
+What will the forecasted demand be, in weeks, for this product?
+
+![sparkling J Avocado](https://github.com/tkram10/Swire_Innovators_capstone/assets/72302122/1fd229ff-c0fb-429c-a2e4-7bd5741a5560)
+
+The prophet model has calculated the sales' upper and lower limits accurately. On March 17th, two weeks before Easter, we forecasted dollar sales around dollar 155430, and it dropped to dollar 152027 after 1 week. Following Easter, the dollar sales increased to 158150 during the April 1st week and continued to increase the trend with a value of 166622.
+
+#### Product:2
+
+Item Description: Diet Venomous Blast Energy Drink Kiwano 16 Liquid Small
+Caloric Segment: Diet
+Market Category: Energy
+Manufacturer: Swire-CC
+Brand: Venomous Blast
+Package Type: 16 Liquid Small
+Flavor: ’Kiwano’
+
+Which 13 weeks of the year would this product perform best in the market?
+What is the forecasted demand, in weeks, for those 13 weeks?
+
+![kiwano](https://github.com/tkram10/Swire_Innovators_capstone/assets/72302122/165c9169-a412-4333-8d1a-62339e4cd5cc)
+
+The exponential smoothing model identified the top 13 weeks for this product's market performance. The optimal period is from November 5, 2023, to February 4, 2024, during which the model forecasts total sales to be between 8,600 and 8,650 units.
+
+### Contribution to the project
 
 I was crucial in managing data importation into Google Cloud Storage and Google Colab and executing complex SQL queries via Google BigQuery. I conducted extensive data analysis, including creating a correlation matrix heatmap and analyzing market and packaging trends to correlate them with sales data. I developed forecasting models using techniques such as Prophet, ARIMA, SARIMA, and Exponential Smoothing for three innovative products. Additionally, I compiled all findings into a comprehensive report and ensured accuracy by proofreading the entire notebook. My contributions also included researching the most effective models for our forecasting needs and ensuring our analytical approaches were robust and well-suited to the project's objectives.
+
+# Benefit of Solution
+
+• Forecasting the demand for each innovative product listed so that this guarantees efficient resource utilization.
+
+• Generating the forecast for a designated location within a specified period.
+
+• Identifying ideal locations and demographics for the specified products. 
+
+This solution empowers Swire Coca-Cola to make informed and data-driven decisions regarding the launch of new products.
+
+
+ 
+
+
 
 
