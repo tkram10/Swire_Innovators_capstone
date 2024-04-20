@@ -11,5 +11,11 @@ By accurately predicting demand for Swire Coca-Cola's innovative products, we en
 With increased customer satisfaction and loyalty, we can drive more sales, capture new market opportunities, and increase profitability. 
 Ultimately, by understanding and meeting consumer demands effectively, we enhance operational efficiency and strengthen our brand's reputation, driving sustainable growth in the competitive beverage industry.
 
+### Findings
 
+#### image-1: Unit sales and dollar sales for each manufacturer.
+
+![by manufacturer](<img width="1217" alt="Screen Shot 2024-04-20 at 11 38 42 AM" src="https://github.com/tkram10/Swire_Innovators_capstone/assets/72302122/99bc30d1-efbc-4acf-8504-2b599b18faf4">
+
+COCOS and JOLLYS are the most prolific manufacturers, with unit sales as high as 1 to 1.2 million and dollar sales around 3 to 5 million. In contrast, KEKES, BEARS, and JORDYS have notably lower sales, around 0.1 million units, compared to the others. PONYS and ALLYS have significant sales of around 0.5 million units. SWIRE-CC, with more than 0.8 million unit sales and around 3 million in dollar sales, secures third place in the market after COCOS and JOLLYS
 
