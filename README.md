@@ -13,9 +13,16 @@ Ultimately, by understanding and meeting consumer demands effectively, we enhanc
 
 ### Findings
 
-#### image-1: Unit sales and dollar sales for each manufacturer.
+#### IMAGE-1: Unit sales and dollar sales for each manufacturer.
 
 <img width="1217" alt="Screen Shot 2024-04-20 at 11 38 42 AM" src="https://github.com/tkram10/Swire_Innovators_capstone/assets/72302122/99bc30d1-efbc-4acf-8504-2b599b18faf4">
 
 COCOS and JOLLYS are the most prolific manufacturers, with unit sales as high as 1 to 1.2 million and dollar sales around 3 to 5 million. In contrast, KEKES, BEARS, and JORDYS have notably lower sales, around 0.1 million units, compared to the others. PONYS and ALLYS have significant sales of around 0.5 million units. SWIRE-CC, with more than 0.8 million unit sales and around 3 million in dollar sales, secures third place in the market after COCOS and JOLLYS
+
+#### IMAGE-2: Market size of SWIRE-CC over time.
+
+<img width="1025" alt="Screen Shot 2024-04-20 at 11 45 51 AM" src="https://github.com/tkram10/Swire_Innovators_capstone/assets/72302122/5f95a5ec-0eae-4b23-a123-e063d0e9d678">
+
+We can see only the SWIRE-CC sales over time, and SWIRE has sales peak in November and December every year due to Christmas and Thanksgiving; also, the sales increase in May and June every year. We mainly consider SWIRE-CC to be the manufacturer in our analysis, as SWIRE-CC is the only manufacturer in our modeling questions.
+
 
