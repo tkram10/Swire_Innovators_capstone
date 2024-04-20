@@ -11,6 +11,20 @@ By accurately predicting demand for Swire Coca-Cola's innovative products, we en
 With increased customer satisfaction and loyalty, we can drive more sales, capture new market opportunities, and increase profitability. 
 Ultimately, by understanding and meeting consumer demands effectively, we enhance operational efficiency and strengthen our brand's reputation, driving sustainable growth in the competitive beverage industry.
 
+#### Analytical Approach.
+This problem can be addressed in multiple approaches:
+
+Approach-1 :
+
+Identify regular products that closely resemble the specified innovative products and forecast sales by leveraging the sales data of these similar products.
+Determine the most relevant similar products based on factors such as brand, market category, manufacturer, package type, and flavor, matching the specifications of the specified innovative products.
+Analyze the weekly sales figures of these similar products.
+Aggregate the sales data of these products to predict the sales of the innovative products.
+
+Approach-2 :
+
+This involves segmenting the success of regular products according to demographics and regions. By identifying patterns and public sentiments, we can analyze the weekly sales of these specific items within those regions. This sentiment analysis will forecast the sales of these specified innovative products.
+
 ### Findings
 
 #### IMAGE-1: Unit sales and dollar sales for each manufacturer.
@@ -24,5 +38,9 @@ COCOS and JOLLYS are the most prolific manufacturers, with unit sales as high as
 <img width="1025" alt="Screen Shot 2024-04-20 at 11 45 51 AM" src="https://github.com/tkram10/Swire_Innovators_capstone/assets/72302122/5f95a5ec-0eae-4b23-a123-e063d0e9d678">
 
 We can see only the SWIRE-CC sales over time, and SWIRE has sales peak in November and December every year due to Christmas and Thanksgiving; also, the sales increase in May and June every year. We mainly consider SWIRE-CC to be the manufacturer in our analysis, as SWIRE-CC is the only manufacturer in our modeling questions.
+
+#### Contribution to the project
+
+I was crucial in managing data importation into Google Cloud Storage and Google Colab and executing complex SQL queries via Google BigQuery. I conducted extensive data analysis, including creating a correlation matrix heatmap and analyzing market and packaging trends to correlate them with sales data. I developed forecasting models using techniques such as Prophet, ARIMA, SARIMA, and Exponential Smoothing for three innovative products. Additionally, I compiled all findings into a comprehensive report and ensured accuracy by proofreading the entire notebook. My contributions also included researching the most effective models for our forecasting needs and ensuring our analytical approaches were robust and well-suited to the project's objectives.
 
 
