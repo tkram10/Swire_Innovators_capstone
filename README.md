@@ -78,7 +78,7 @@ The exponential smoothing model identified the top 13 weeks for this product's m
 
 I was crucial in managing data importation into Google Cloud Storage and Google Colab and executing complex SQL queries via Google BigQuery. I conducted extensive data analysis, including creating a correlation matrix heatmap and analyzing market and packaging trends to correlate them with sales data. I developed forecasting models using techniques such as Prophet, ARIMA, SARIMA, and Exponential Smoothing for three innovative products. Additionally, I compiled all findings into a comprehensive report and ensured accuracy by proofreading the entire notebook. My contributions also included researching the most effective models for our forecasting needs and ensuring our analytical approaches were robust and well-suited to the project's objectives.
 
-### Benefit of Solution
+###  Business value of Solution
 
 • Forecasting the demand for each innovative product listed so that this guarantees efficient resource utilization.
 
@@ -87,6 +87,17 @@ I was crucial in managing data importation into Google Cloud Storage and Google 
 • Identifying ideal locations and demographics for the specified products. 
 
 This solution empowers Swire Coca-Cola to make informed and data-driven decisions regarding the launch of new products.
+
+### Challenges and Learnings
+
+Dealing with large datasets was tough, especially since we hadn't done it before. We had to learn how to use platforms like Google Cloud and BigQuery to manage all that data. Forecasting methods like ARIMA, SARIMA, Prophet, and exponential smoothing were also tricky, and we made a lot of mistakes before we got them right. Thinking creatively was important too, especially when analyzing complex products. Each challenge taught us something valuable, like being adaptable and resilient when things get tough.
+
+
+
+
+
+
+
 
 
  
