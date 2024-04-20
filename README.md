@@ -5,8 +5,11 @@ Swire Coca-Cola has faced major challenges in managing production and inventory 
 
 These challenges have made it clear that Swire Coca-Cola must improve how it predicts demand and adjusts production quickly. As Swire plans to launch seven new products, applying these improvements is essential. By doing so, the company aims to manage inventory levels better and prevent running out of products or producing too much, thereby saving costs and satisfying customers. This strategic approach will be crucial in successfully introducing the new products and avoiding the pitfalls experienced with Starlight and Dreamworld.
 
+### Impact
 
-
+By accurately predicting demand for Swire Coca-Cola's innovative products, we ensure resources are used efficiently, preventing waste and saving costs. This ensures we have the right products available when customers want them, leading to happier customers and strengthened loyalty to our brand. 
+With increased customer satisfaction and loyalty, we can drive more sales, capture new market opportunities, and increase profitability. 
+Ultimately, by understanding and meeting consumer demands effectively, we enhance operational efficiency and strengthen our brand's reputation, driving sustainable growth in the competitive beverage industry.
 
 
 
